@@ -8,3 +8,5 @@ Recently discovered that for me, Windows isnt't the best environment for coding.
 
 Working on learning as much usefull technologies as I can. Currently busy working on my Python and JS knowledge. I also try to keep C++ alive, as It gives me soo much fun while using it. Just it's strict nature and rules makes it work a treat for my scientific mind.
 
+The thing at my profile pic is a Voxel World Generator with full support of movement written by me in C++ and OpenGL. Awaiting further updates, with a quadtree and octree library written by me. ^^
+
